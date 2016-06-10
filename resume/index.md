@@ -13,7 +13,7 @@ M.S. Conservation Biology and Biodiversity
 
 `2003 - 2012`
 __University of Connecticut__
-B.S. Ecology and Evolutionary Biology 
+B.S. Ecology and Evolutionary Biology
 
 ## Awards
 
