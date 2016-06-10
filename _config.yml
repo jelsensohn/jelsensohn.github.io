@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Johanna Elsensohn
 locale:           en_US
 logo:
-url:		
+url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Johanna Elsensohn
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Seeker of knowledge"
+  email: jeelsens@ncsu.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -22,7 +22,7 @@ owner:
   bing-verify:
   github: #username
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: https://www.linkedin.com/in/johanna-elsensohn-13248716
   xing: #username
   instagram: #username
   lastfm: #username
