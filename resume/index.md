@@ -37,7 +37,7 @@ North American Bramble Growers Foundation Grant [$2500]
 
 An updated list is also available on [Google Scholar](https://scholar.google.com/citations?view_op=search_authors&mauthors=johanna+elsensohn&hl=en&oi=ao)
 
-### Journals
+###Journals
 
 `2015`
 Cowles, R.S., C. R. Rodriguez-Saona, R. Holdcraft, G. M. Loeb, **J. E. Elsensohn**, and S. P. Hesler. Sucrose improves insecticide activity against Drosophila suzukii (Diptera: Drosophilidae). Econ. Entomol. 108(2), pp.640-653. DOI: 10.1093/jee/tou100
@@ -69,6 +69,8 @@ Burrack, H.J. and **J.E. Elsensohn**. *Drosophila suzukii* biology, ecology, man
 **Elsensohn, J. E.**, and R. S. Cowles. Current and Future Directions of Spotted Wing Control. Connecticut Entomological Society. May 18. Storrs, CT.
 
 
+
+
 ##Presentations, Other
 
 `2016`
@@ -94,6 +96,8 @@ Baltzegar, J. F., **J. E. Elsensohn**, E. I. Nwakpuda, B. W. Peddycord III, E A.
 
 
 
+
+
 ##Posters
 
 `2015`
@@ -108,7 +112,11 @@ Baltzegar, J. F., **J. E. Elsensohn**, E. I. Nwakpuda, B. W. Peddycord III, E A.
 `2013`
 **Elsensohn J. E.**, and G. M. Loeb. "Spotted Wing Drosophila: A Small Invasive Fly Causing Big Problems For NY Farmers." Insectapalooza (Cornell University)
 
+
+
 ##Outreach
+
+
 
 ####Entomology
 `2016`		
@@ -135,6 +143,8 @@ Packapalooza. North Carolina State University. Raleigh, NC.
 `2014`		
 Bugfest.  North Carolina Museum of Natural Sciences, Raleigh, NC.
 
+
+
 ####Genetic Engineering
 `2016`
 Triangle SciTech Expo. North Carolina Museum of Natural Sciences, Raleigh, NC.
@@ -142,9 +152,13 @@ Triangle SciTech Expo. North Carolina Museum of Natural Sciences, Raleigh, NC.
 `2015`
 Building with Biology at “The Science of Sour”. Museum of Life and Science. Durham, NC.
 
+
+
 ####Sustainable Agriculture
 `2014`		
 Pints of Science. North Carolina State University. Raleigh, NC.
+
+
 
 ##Extension
 
