@@ -28,16 +28,18 @@ North American Bramble Growers Foundation Grant [$2500]
 
 `2015 - 2017` **Science Policy Fellow**, Entomological Society of America
 
-`2014 - 2017` **NSF Fellowship**, Integrated Graduate Education and Research Traineeship Program, National Science Foundation (NSF-IGERT). Topic: Genetic Pest Management
+`2014 - 2017` **NSF Fellow**, Integrated Graduate Education and Research Traineeship Program, National Science Foundation (NSF-IGERT). Topic: Genetic Pest Management
 
 `2014` **Best Policy and Practices Project; Silver Award**. International Genetically Engineered Machines (iGEM) Competition
 
 
 ## Publications
 
-An updated list is also available on [Google Scholar](https://scholar.google.com/citations?view_op=search_authors&mauthors=johanna+elsensohn&hl=en&oi=ao)
+An updated list is also available on [Google Scholar](https://scholar.google.com/citations?user=PT2tncwAAAAJ&hl=en)  
 
-###Journals
+
+
+### Journals
 
 `2015`
 Cowles, R.S., C. R. Rodriguez-Saona, R. Holdcraft, G. M. Loeb, **J. E. Elsensohn**, and S. P. Hesler. Sucrose improves insecticide activity against Drosophila suzukii (Diptera: Drosophilidae). Econ. Entomol. 108(2), pp.640-653. DOI: 10.1093/jee/tou100
