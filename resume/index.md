@@ -24,7 +24,7 @@ B.S. Ecology and Evolutionary Biology
 North American Bramble Growers Foundation Grant [$2500]
 
 `2015`
-**Winner of Individual and Overall Student Debates** at the Entomological Society of America annual meeting. *Team: S. Webster, J. F. Baltzegar and J. E. Elsensohn*
+**Winner of Individual and Overall Student Debates** at the Entomological Society of America annual meeting. _Team: S. Webster, J. F. Baltzegar and J. E. Elsensohn_
 
 `2015 - 2017` **Science Policy Fellow**, Entomological Society of America
 
@@ -54,19 +54,19 @@ Colwell, R.K., and **J.E. Elsensohn**. EstimateS turns 20: statistical estimatio
 ## Presentations, Invited
 
 `2016`
-**Elsensohn, J. E.** and G. M. Loeb. Non-crop host infestation by an invasive, polyphagous fly: seasonal dynamics and host preference. Southeastern Branch of Entomological Society of America Annual Meeting. March. Raleigh, NC.
+**Elsensohn, J. E.** and G. M. Loeb. Non-crop host infestation by an invasive, polyphagous fly: seasonal dynamics and host preference. Southeastern Branch of Entomological Society of America Annual Meeting. Raleigh, NC.
 
 `2015`
-**Elsensohn, J.E.**, J. Kuzma, and C. Leitschuh*. Gene Drives and Society. Genetic Engineering and Society Colloquium. November 3. Raleigh, NC.
+**Elsensohn, J.E.**, J. Kuzma, and C. Leitschuh*. Gene Drives and Society. Genetic Engineering and Society Colloquium. Raleigh, NC.
 
 `2015`
-Burrack, H.J. and **J.E. Elsensohn**. *Drosophila suzukii* biology, ecology, management, and regulatory implications. Webinar for USDA APHIS staff. July 28. Raleigh, NC.
+Burrack, H.J. and **J.E. Elsensohn**. *Drosophila suzukii* biology, ecology, management, and regulatory implications. Webinar for USDA APHIS staff. Raleigh, NC.
 
 `2014`
-**Elsensohn, J. E.** Season Long Evaluation of Wild Hosts for Spotted Wing Drosophila. Empire State Producers Expo. January 23. Syracuse, NY.
+**Elsensohn, J. E.** Season Long Evaluation of Wild Hosts for Spotted Wing Drosophila. Empire State Producers Expo. Syracuse, NY.
 
 `2012`
-**Elsensohn, J. E.**, and R. S. Cowles. Current and Future Directions of Spotted Wing Control. Connecticut Entomological Society. May 18. Storrs, CT.
+**Elsensohn, J. E.**, and R. S. Cowles. Current and Future Directions of Spotted Wing Control. Connecticut Entomological Society. Storrs, CT.
 
 
 
@@ -145,12 +145,14 @@ Bugfest.  North Carolina Museum of Natural Sciences, Raleigh, NC.
 
 
 
+
 #### Genetic Engineering
 `2016`
 Triangle SciTech Expo. North Carolina Museum of Natural Sciences, Raleigh, NC.
 
 `2015`
 Building with Biology at “The Science of Sour”. Museum of Life and Science. Durham, NC.
+
 
 
 
@@ -163,7 +165,7 @@ Pints of Science. North Carolina State University. Raleigh, NC.
 ## Extension
 
 `2014`
-Workshop Organizer (co-led with Anna Wallingford). “*Drosophila suzukii* Identification for Cornell Cooperative Extensionists”. Cornell University, Geneva, NY.
+Workshop Organizer (co-led with Anna Wallingford). “_Drosophila suzukii_ Identification for Cornell Cooperative Extensionists”. Cornell University, Geneva, NY.
 
 `2013`
 “Spotted Wing Drosophila: A Small Invasive Fly Causing Big Problems For NY Farmers”. Insectapalooza. Cornell University, Ithaca, NY.
@@ -191,6 +193,6 @@ __Current Job Title__, Current Employer
 
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2016
