@@ -141,8 +141,7 @@ Fall Festival. Whole Foods Market. Raleigh, NC.
 Packapalooza. North Carolina State University. Raleigh, NC.
 
 `2014`		
-Bugfest.  North Carolina Museum of Natural Sciences, Raleigh, NC.
-
+Bugfest.  North Carolina Museum of Natural Sciences, Raleigh, NC.  
 
 
 
@@ -153,15 +152,14 @@ Bugfest.  North Carolina Museum of Natural Sciences, Raleigh, NC.
 Triangle SciTech Expo. North Carolina Museum of Natural Sciences, Raleigh, NC.
 
 `2015`
-Building with Biology at “The Science of Sour”. Museum of Life and Science. Durham, NC.
-
-
+Building with Biology at “The Science of Sour”. Museum of Life and Science. Durham, NC.  
 
 
 
 #### Sustainable Agriculture
 `2014`		
-Pints of Science. North Carolina State University. Raleigh, NC.
+Pints of Science. North Carolina State University. Raleigh, NC.  
+
 
 
 
