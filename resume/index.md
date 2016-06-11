@@ -71,7 +71,7 @@ Burrack, H.J. and **J.E. Elsensohn**. *Drosophila suzukii* biology, ecology, man
 
 
 
-##Presentations, Other
+## Presentations, Other
 
 `2016`
 **Elsensohn, J. E.**, H.J. Burrack, and C. Schal. Context-dependent oviposition site selection in the polyphagous pest species, *Drosophila suzukii*. Keck Center for Behavioral Biology Graduate and Postdoc Symposium.
@@ -98,7 +98,7 @@ Baltzegar, J. F., **J. E. Elsensohn**, E. I. Nwakpuda, B. W. Peddycord III, E A.
 
 
 
-##Posters
+## Posters
 
 `2015`
 **Elsensohn, J.E.** “Beyond the lab: communicating with the public about emerging technologies.” NC State Genetic Engineering Symposium.
@@ -114,11 +114,11 @@ Baltzegar, J. F., **J. E. Elsensohn**, E. I. Nwakpuda, B. W. Peddycord III, E A.
 
 
 
-##Outreach
+## Outreach
 
 
 
-####Entomology
+#### Entomology
 `2016`		
 Judge for STEM and STEAM Expo. East Wake Middle School. Raleigh, NC.
 
@@ -145,7 +145,7 @@ Bugfest.  North Carolina Museum of Natural Sciences, Raleigh, NC.
 
 
 
-####Genetic Engineering
+#### Genetic Engineering
 `2016`
 Triangle SciTech Expo. North Carolina Museum of Natural Sciences, Raleigh, NC.
 
@@ -154,13 +154,13 @@ Building with Biology at “The Science of Sour”. Museum of Life and Science. 
 
 
 
-####Sustainable Agriculture
+#### Sustainable Agriculture
 `2014`		
 Pints of Science. North Carolina State University. Raleigh, NC.
 
 
 
-##Extension
+## Extension
 
 `2014`
 Workshop Organizer (co-led with Anna Wallingford). “*Drosophila suzukii* Identification for Cornell Cooperative Extensionists”. Cornell University, Geneva, NY.
