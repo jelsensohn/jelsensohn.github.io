@@ -24,11 +24,11 @@ B.S. Ecology and Evolutionary Biology
 North American Bramble Growers Foundation Grant [$2500]
 
 `2015`
-**Winner of Individual and Overall Student Debates** at the Entomological Society of America annual meeting. _Team: S. Webster, J. F. Baltzegar and J. E. Elsensohn_
+**Winner of Individual and Overall Student Debates** at the Entomological Society of America annual meeting. Team: S. Webster, J. F. Baltzegar and J. E. Elsensohn
 
 `2015 - 2017` **Science Policy Fellow**, Entomological Society of America
 
-`2014 - 2017` **NSF Fellowship**, Integrated Graduate Education and Research Traineeship Program, National Science Foundation (NSF-IGERT). *Topic: Genetic Pest Management*
+`2014 - 2017` **NSF Fellowship**, Integrated Graduate Education and Research Traineeship Program, National Science Foundation (NSF-IGERT). Topic: Genetic Pest Management
 
 `2014` **Best Policy and Practices Project; Silver Award**. International Genetically Engineered Machines (iGEM) Competition
 
@@ -60,7 +60,7 @@ Colwell, R.K., and **J.E. Elsensohn**. EstimateS turns 20: statistical estimatio
 **Elsensohn, J.E.**, J. Kuzma, and C. Leitschuh*. Gene Drives and Society. Genetic Engineering and Society Colloquium. Raleigh, NC.
 
 `2015`
-Burrack, H.J. and **J.E. Elsensohn**. *Drosophila suzukii* biology, ecology, management, and regulatory implications. Webinar for USDA APHIS staff. Raleigh, NC.
+Burrack, H.J. and **J.E. Elsensohn**. Drosophila suzukii biology, ecology, management, and regulatory implications. Webinar for USDA APHIS staff. Raleigh, NC.
 
 `2014`
 **Elsensohn, J. E.** Season Long Evaluation of Wild Hosts for Spotted Wing Drosophila. Empire State Producers Expo. Syracuse, NY.
@@ -74,16 +74,16 @@ Burrack, H.J. and **J.E. Elsensohn**. *Drosophila suzukii* biology, ecology, man
 ## Presentations, Other
 
 `2016`
-**Elsensohn, J. E.**, H.J. Burrack, and C. Schal. Context-dependent oviposition site selection in the polyphagous pest species, *Drosophila suzukii*. Keck Center for Behavioral Biology Graduate and Postdoc Symposium.
+**Elsensohn, J. E.**, H.J. Burrack, and C. Schal. Context-dependent oviposition site selection in the polyphagous pest species, Drosophila suzukii. Keck Center for Behavioral Biology Graduate and Postdoc Symposium.
 
 `2016`
-**Elsensohn, J. E.** and H. J. Burrack. A mother’s memory: how previous exposure affects oviposition site preference in *Drosophila suzukii*. Southeastern Branch of Entomological Society of America Annual Meeting.
+**Elsensohn, J. E.** and H. J. Burrack. A mother’s memory: how previous exposure affects oviposition site preference in Drosophila suzukii. Southeastern Branch of Entomological Society of America Annual Meeting.
 
 `2016`
 **Elsensohn, J. E.**, F. Li, and M. J. Scott. “Development of genetic control tactics for spotted wing Drosophila”. Sustainable SWD Management SCRI Working Group Meeting.
 
 `2015`
-**Elsensohn, J. E.** and H. J. Burrack. “Behavioral ecology and resource use by an invasive fly, *Drosophila suzukii*.” Entomological Society of America Annual Meeting.
+**Elsensohn, J. E.** and H. J. Burrack. “Behavioral ecology and resource use by an invasive fly, Drosophila suzukii.” Entomological Society of America Annual Meeting.
 
 `2014`
 Loeb, G.M, A.K. Wallingford, **J.E. Elsensohn**, and S.P. Hesler. “SWD overwintering biology and use of wild host plants in the Northeast US”. Entomological Society of America Annual Meeting.
@@ -107,7 +107,7 @@ Baltzegar, J. F., **J. E. Elsensohn**, E. I. Nwakpuda, B. W. Peddycord III, E A.
 Baltzegar, J. F., **J. E. Elsensohn**, E. I. Nwakpuda, B. W. Peddycord III, E A. Pitts, and R. X. Valdez. “Mapping Responsible Innovation: A First Principles Approach”. International Genetically Engineered Machines (iGEM) Competition.
 
 `2014`
-**Elsensohn, J.E**. and G. M. Loeb. “Seasonal dynamics of non-cultivated hosts of the invasive *Drosophila suzukii* (Diptera: Drosophilidae) in central New York”. North Carolina Entomological Society Annual Meeting.
+**Elsensohn, J.E**. and G. M. Loeb. “Seasonal dynamics of non-cultivated hosts of the invasive Drosophila suzukii (Diptera: Drosophilidae) in central New York”. North Carolina Entomological Society Annual Meeting.
 
 `2013`
 **Elsensohn J. E.**, and G. M. Loeb. "Spotted Wing Drosophila: A Small Invasive Fly Causing Big Problems For NY Farmers." Insectapalooza (Cornell University)
@@ -146,12 +146,15 @@ Bugfest.  North Carolina Museum of Natural Sciences, Raleigh, NC.
 
 
 
+
+
 #### Genetic Engineering
 `2016`
 Triangle SciTech Expo. North Carolina Museum of Natural Sciences, Raleigh, NC.
 
 `2015`
 Building with Biology at “The Science of Sour”. Museum of Life and Science. Durham, NC.
+
 
 
 
@@ -165,7 +168,7 @@ Pints of Science. North Carolina State University. Raleigh, NC.
 ## Extension
 
 `2014`
-Workshop Organizer (co-led with Anna Wallingford). “_Drosophila suzukii_ Identification for Cornell Cooperative Extensionists”. Cornell University, Geneva, NY.
+Workshop Organizer (co-led with Anna Wallingford). “Drosophila suzukii Identification for Cornell Cooperative Extensionists”. Cornell University, Geneva, NY.
 
 `2013`
 “Spotted Wing Drosophila: A Small Invasive Fly Causing Big Problems For NY Farmers”. Insectapalooza. Cornell University, Ithaca, NY.
@@ -193,6 +196,7 @@ __Current Job Title__, Current Employer
 
 
 
-### Footer
+
+
 
 Last updated: June 2016
