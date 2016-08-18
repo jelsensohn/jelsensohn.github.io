@@ -4,6 +4,7 @@ layout: resume
 ## Currently
 
 __North Carolina State University__ Doctoral student
+
 * Major: Entomology
 * Minor: Genetic Engineering anf Society
 * Minor: Biotechnology
@@ -35,11 +36,8 @@ North American Bramble Growers Foundation Grant [$2500]
 
 ## Publications
 
-An updated list is also available on [Google Scholar](https://scholar.google.com/citations?user=PT2tncwAAAAJ&hl=en)  
+This list is also available on [Google Scholar](https://scholar.google.com/citations?user=PT2tncwAAAAJ&hl=en)  
 
-
-
-### Journals
 
 `2015`
 Cowles, R.S., C. R. Rodriguez-Saona, R. Holdcraft, G. M. Loeb, **J. E. Elsensohn**, and S. P. Hesler. Sucrose improves insecticide activity against Drosophila suzukii (Diptera: Drosophilidae). Econ. Entomol. 108(2), pp.640-653. DOI: 10.1093/jee/tou100
