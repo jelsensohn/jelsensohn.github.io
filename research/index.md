@@ -1,16 +1,20 @@
 ---
 layout: page
-title: research
+title: Research
 tags: [research, interests, sustainable agriculture, ]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-I am a doctoral student at North Carolina State University in Raleigh, NC. I research the development of sustainable control solutions for invasive insect pests in agricultural systems. I'm also interested in exploring the ethical and social issues surrounding genome editing technologies, specifically with regards to genetically modified insects.  
 
-## Current Interests and Projects:
+## Current Projects:
 
-* Complexity theory
-* Behavioral manipulation
-* Science communication
-* Science policy
+* Crop Host Metagenomics
+* Density Dependent Oviposition Behavior
+* Host Dependent Oviposition Behavior
+* Comparative Risk Analysis of Agricultural Biotechnologies
+
+## Past Projects:
+
+* Seasonal Infestation of Wild Hosts in Central NY
+* Effects of Sucrose on Insecticide Efficacy

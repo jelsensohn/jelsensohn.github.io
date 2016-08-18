@@ -5,17 +5,21 @@
 - title: About Me
   url: /about/
 
-- title: CV and Contact
-  url: /CV/
-
 - title: Research
   url: /research/
+
+- title: CV
+  url: /CV/
 
 - title: Blog
   url: /archive/
 
 - title: Links
   url: /links/
+
+- title: Contact
+  url: /contact/
+
 #These will be the top line links at the top of the site. To make a new link page,
 #copy an existing folder, like 'about', then rename it, to say 'presentations', then add to menu above.
 #reveal.gs for loading presentations, go to todd stoffer's github for instructions on how to do this.
