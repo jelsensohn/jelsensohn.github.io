@@ -12,6 +12,7 @@ comments: true
 * Crop Host Metagenomics
 * Density Dependent Oviposition Behavior
 * Host Dependent Oviposition Behavior
+* Characterization of Host Rejection
 * Comparative Risk Analysis of Agricultural Biotechnologies
 
 ## Past Projects:
